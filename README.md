@@ -1,13 +1,6 @@
-![test](/imgs/幻灯片1.PNG)
-![test](/imgs/幻灯片2.PNG)
-![test](/imgs/幻灯片3.PNG)
-![test](/imgs/幻灯片4.PNG)
-![test](/imgs/幻灯片5.PNG)
-![test](/imgs/幻灯片6.PNG)
-![test](/imgs/幻灯片7.PNG)
-![test](/imgs/幻灯片8.PNG)
-![test](/imgs/幻灯片9.PNG)
-![test](/imgs/幻灯片10.PNG)
-![test](/imgs/幻灯片11.PNG)
-![test](/imgs/幻灯片12.PNG)
-![test](/imgs/幻灯片13.PNG)
+2024.3.14
+1. 学习vue框架，对接之前的项目
+2. 尝试写前端页面，直接写新功能还未与后端接口联动
+![](/imgs/1.png)
+![](/imgs/2.png)
+![](/imgs/3.png)
